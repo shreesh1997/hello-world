@@ -1,3 +1,4 @@
 # hello-world
-my first repository
+my first repository.
+
 I'm a Star Wars fan.
